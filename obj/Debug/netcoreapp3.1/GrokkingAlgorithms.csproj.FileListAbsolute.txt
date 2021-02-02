@@ -1,0 +1,13 @@
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.exe
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.deps.json
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.runtimeconfig.json
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.runtimeconfig.dev.json
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.dll
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.pdb
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.AssemblyInfo.cs
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.dll
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.pdb
+C:\Users\Azefina\source\repos\GrokkingAlgorithms\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.genruntimeconfig.cache
